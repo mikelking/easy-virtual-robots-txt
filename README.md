@@ -1,12 +1,12 @@
-# Virtual Ads.txt
+# Easy Virtual Robots.txt
 The purpose of this plugin is to allow an AdOps user to create and maintain the ads.txt document for the entire site as a custom post type utilizing the WordPress CMS. 
 
-Virtual Ads.txt automatically creates a ads.txt file for your site. Your ads.txt file can be easily edited from the plugin settings page.
+Easy Virtual Robots.txt automatically creates a ads.txt file for your site. Your ads.txt file can be easily edited from the plugin settings page.
 
 ## Description
-Virtual Ads.txt is an simple FTP free solution for creating and maintaining the ads.txt file for your site.
+Easy Virtual Robots.txt is an simple FTP free solution for creating and maintaining the ads.txt file for your site.
 
-By default, the Virtual Ads.txt plugin identifies the ad service partners authorized to be present on your site to ad server networks like Google's DFP.
+By default, the Easy Virtual Robots.txt plugin identifies the ad service partners authorized to be present on your site to ad server networks like Google's DFP.
 
 ## Installation
 1. Upload virtual-ads-txt folder to the `/wp-content/plugins/` directory
